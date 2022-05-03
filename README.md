@@ -20,6 +20,4 @@
   <img align="center" alt="Leo-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
-##
-
-  ![Snake animation](https://github.com/rafeallaballertini/rafeallaballertini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
