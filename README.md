@@ -2,7 +2,7 @@
 
 - 💻 atualmente cursando engenharia informática.
 - 👍🏽 Apaixonado por tecnologia.
-- 📚 Hoje estudando Dart e Flutter.
+- 📚 Hoje estudando Dart.
 
 <div align="center">
   <a href="https://github.com/LeandroUcuamba">
