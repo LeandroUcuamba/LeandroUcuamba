@@ -1,6 +1,6 @@
 ## Olá 👋🏽! Eu sou o Leandro Ucuamba.
 
-- 💻 atualmente cursando engenharia informática.
+- 💻 atualmente frequênta o curso engenharia informática.
 - 📚👍🏽 Apaixonado por tecnologia.
 
 <div align="center">
