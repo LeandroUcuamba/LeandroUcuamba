@@ -1,8 +1,7 @@
 ## Olá 👋🏽! Eu sou o Leandro Ucuamba.
 
 - 💻 atualmente cursando engenharia informática.
-- 👍🏽 Apaixonado por tecnologia.
-- 📚 Hoje estudando Dart.
+- 📚👍🏽 Apaixonado por tecnologia.
 
 <div align="center">
   <a href="https://github.com/LeandroUcuamba">
@@ -20,12 +19,25 @@
 <br>
 </div>
 
+
 <div style="display: inline_block"><br>
-   <h1> Ferramentas que mais uso:</h1>
+   <h1> Framework para web:</h1>
+   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<br><br><br>
+</div>
+
+
+<div style="display: inline_block"><br>
+   <h1> Ferramentas e IDE:</h1>
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+   <img src="<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+   <img src="<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+   <img src="<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+   <img src="<img src="" />
 <br><br><br>
 </div>
 
