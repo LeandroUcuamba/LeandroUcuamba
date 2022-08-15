@@ -22,6 +22,7 @@
 
 <div style="display: inline_block"><br>
    <h1> Framework para web:</h1>
+   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" /></br>
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></br>
    E gosto também de outro Framework css que é o <i>Materialize css</i>- tem o funcionamento semelhante ao do <i>Bootstrap</i>;
 <br><br><br>
