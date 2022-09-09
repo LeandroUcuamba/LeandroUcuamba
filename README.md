@@ -21,7 +21,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-   <h1> Framework para web:</h1>
+   <h1> Framework que utilizo para desenvolvimento web:</h1>
    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" /></br>
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></br>
    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /></br>
@@ -31,20 +31,22 @@
 
 
 <div style="display: inline_block"><br>
-   <h1> Framework para Mobile:</h1>
+   <h1> UI Framework para Mobile:</h1>
    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></br>
 <br><br><br>
 </div>
 
 
 <div style="display: inline_block"><br>
-   <h1> Ferramentas e IDE's que mais uso:</h1>
+   <h1> Ferramentas e IDE's que frequentemente utilizo:</h1>
    <img height="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+   <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
+
 <br><br><br>
 </div>
 
