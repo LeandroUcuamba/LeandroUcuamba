@@ -36,7 +36,7 @@
 
 
 <div style="display: inline_block"><br>
-   <h1> Ferramentas e IDE's que frequentemente utilizo:</h1>
+   <h1> Ferramentas e IDE's que utilizo:</h1>
    <img height="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
