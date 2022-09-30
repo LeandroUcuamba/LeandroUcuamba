@@ -1,7 +1,8 @@
 ## Olá 👋🏽! Eu sou o Leandro Ucuamba.
 
-- 💻 Atualmente frequênto o curso engenharia informática.
-- 📚👍🏽 Apaixonado por tecnologia.
+- 💻 Eu sou um desenvolvedor web e de software!
+- 📚📝 Atualmente frequênto o curso engenharia informática.
+- ❤️❤️ Apaixonado por tecnologia.
 
 <div align="center">
   <a href="https://github.com/LeandroUcuamba">
