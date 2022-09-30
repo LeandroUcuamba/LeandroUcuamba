@@ -1,6 +1,13 @@
 ## Olá 👋🏽! Eu sou o Leandro Ucuamba.
 
-- 💻 Eu sou um desenvolvedor web e de software!
+Sou desenvolvedor Full-Stack. Amo estudar e trabalhar 
+nesta área que todos 
+os dias tenho oportunidade de aprender uma nova
+tecnologia. Razão pela qual estudo constantemente 
+com objetivo de aprimorar minhas habilidades e conhecer 
+novas linguagens, frameworks, bem como novas tecnologias 
+que me chamam a atenção.
+
 - 📚📝 Atualmente frequênto o curso engenharia informática.
 - ❤️❤️ Apaixonado por tecnologia.
 
