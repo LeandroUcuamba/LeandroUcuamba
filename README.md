@@ -1,8 +1,8 @@
 ## Olá 👋🏽! Eu sou o Leandro Ucuamba.
 
-Sou desenvolvedor Full-Stack. Amo estudar e trabalhar 
+Sou desenvolvedor web and desktop. Amo estudar e trabalhar 
 nesta área que todos 
-os dias tenho oportunidade de aprender uma nova
+os dias, de tempo em tempo tenho oportunidade de aprender uma nova
 tecnologia. Razão pela qual estudo constantemente 
 com objetivo de aprimorar minhas habilidades e conhecer 
 novas linguagens, frameworks, bem como novas tecnologias 
@@ -48,7 +48,6 @@ que me chamam a atenção.
 <div style="display: inline_block"><br>
    <h1>SGBD:</h1>
    <img height="80" Width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img height="80" Width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <br><br><br>
 </div>
 
