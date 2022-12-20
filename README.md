@@ -11,6 +11,10 @@ que me chamam a atenção.
 - 📚📝 Atualmente frequênto o curso engenharia informática.
 - ❤️❤️ Apaixonado por tecnologia.
 
+### Conta LinkedIn: 
+[Leandro Ucuamba](https://www.linkedin.com/in/leandro-ucuamba-8208a3142)
+<br>
+
 <div align="center">
   <a href="https://github.com/LeandroUcuamba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroUcuamba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
