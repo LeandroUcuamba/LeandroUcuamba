@@ -52,7 +52,6 @@ que me chamam a atenção.
 <div style="display: inline_block"><br>
    <h1>SGBD:</h1>
    <img height="80" Width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img height="80" Width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <br><br><br>
 </div>
 
