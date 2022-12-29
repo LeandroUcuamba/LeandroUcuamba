@@ -2,13 +2,12 @@
 
 Sou desenvolvedor web and desktop. Amo estudar e trabalhar 
 nesta área que todos 
-os dias, de tempo em tempo tenho oportunidade de aprender uma nova
-tecnologia. Razão pela qual estudo constantemente 
+os dias, de tempo em tempo tenho oportunidade de aprender algo novo. Razão pela qual estudo constantemente 
 com objetivo de aprimorar minhas habilidades e conhecer 
 novas linguagens, frameworks, bem como novas tecnologias 
 que me chamam a atenção.
 
-- 📚📝 Atualmente frequênto o curso engenharia informática.
+- 📚📝 Atualmente frequênto o curso de engenharia informática.
 - ❤️❤️ Apaixonado por tecnologia.
 
 ### Conta LinkedIn: 
