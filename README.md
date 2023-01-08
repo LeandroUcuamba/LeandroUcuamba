@@ -40,16 +40,11 @@ com objetivo de aprimorar minhas habilidades.
 <br><br><br>
 </div>
 
-
-<div style="display: inline_block"><br>
-   <h1>Framework para Mobile - Front-end:</h1>
-   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></br>
-<br><br><br>
-</div>
-
 <div style="display: inline_block"><br>
    <h1>SGBD:</h1>
    <img height="80" Width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /><br>
+<br><br><br>
 <br><br><br>
 </div>
 
@@ -70,6 +65,7 @@ com objetivo de aprimorar minhas habilidades.
    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
    <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
+   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 
 <br><br><br>
 </div>
