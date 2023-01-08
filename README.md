@@ -1,11 +1,8 @@
 ## Olá 👋🏽! Eu sou o Leandro Ucuamba.
 
-Sou desenvolvedor web and desktop. Amo estudar e trabalhar 
-nesta área que todos 
-os dias, de tempo em tempo tenho oportunidade de aprender algo novo. Razão pela qual estudo constantemente 
-com objetivo de aprimorar minhas habilidades e conhecer 
-novas linguagens, frameworks, bem como novas tecnologias 
-que me chamam a atenção.
+Sou desenvolvedor web and desktop, mais focado em desenvolvimento web. Amo estudar e trabalhar 
+nesta área que todos os dias, de tempo em tempo, tenho oportunidade de aprender algo novo. Razão pela qual estudo constantemente 
+com objetivo de aprimorar minhas habilidades.
 
 - 📚📝 Atualmente frequênto o curso de engenharia informática.
 - ❤️❤️ Apaixonado por tecnologia.
@@ -23,10 +20,12 @@ que me chamam a atenção.
   <h1> Linguagens: </h1>
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Leo-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
   <img align="center" alt="Leo-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Leo-JAVA" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Leo-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Leo-C#" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
 <br>
 </div>
 
