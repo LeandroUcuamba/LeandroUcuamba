@@ -4,7 +4,7 @@ Sou estudante de Engenharia de software, mais focado em desenvolvimento web. Amo
 nesta área que todos os dias, de tempo em tempo, tenho oportunidade de aprender algo novo. Razão pela qual estudo constantemente 
 com objetivo de aprimorar minhas habilidades.
 
-- 📚📝 Atualmente estou estagiando como QA na empresa Tis Tech.
+- 📚📝 Atualmente trabalho na area de Automação de Testes de software na empresa Tis Tech.
 - ❤️❤️ Apaixonado por tecnologia.
 
 ### Conta LinkedIn: 
