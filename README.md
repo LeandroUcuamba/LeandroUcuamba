@@ -48,13 +48,6 @@ com objetivo de aprimorar minhas habilidades.
 </div>
 
 <div style="display: inline_block"><br>
-   <h1>S.O:</h1>
-   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<br><br><br>
-</div>
-
-<div style="display: inline_block"><br>
 
    <h1> Ferramentas e IDE's que utilizo:</h1>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
