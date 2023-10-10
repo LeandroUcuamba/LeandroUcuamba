@@ -8,6 +8,7 @@ com objetivo de aprimorar minhas habilidades.
 - ❤️❤️ Apaixonado por tecnologia.
 
 ### Conta LinkedIn: 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 [Leandro Ucuamba](https://www.linkedin.com/in/leandro-ucuamba-8208a3142)
 <br>
 
