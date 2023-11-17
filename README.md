@@ -5,6 +5,8 @@ I'm a computer engineer, more focused on web development. I love studying and wo
 in this area that every day I have the opportunity to learn something new. That's why I study constantly
 with the aim of improving my skills.
 
+<br>
+
 - 🔰  I`m from Luanda, Angola
 - 👨‍🎓 computer engineer
 - 📚📝 I like studying and keeping up to date.
