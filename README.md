@@ -43,40 +43,40 @@ with the aim of improving my skills.
 
 #### Frameworks and Tools:
 <div>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+<a href="https://vuejs.org/">
   <img src="https://skillicons.dev/icons?i=vue"/>
 </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+<a href="https://react.dev/">
   <img src="https://skillicons.dev/icons?i=react"/>
 </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+<a href="https://spring.io/">
   <img src="https://skillicons.dev/icons?i=spring"/>
 </a>
-<a href="https://www.java.com/pt-BR/">
+<a href="https://laravel.com/">
   <img src="https://skillicons.dev/icons?i=laravel"/>
 </a>
-<a href="https://www.php.net/">
+<a href="https://www.selenium.dev/">
   <img src="https://skillicons.dev/icons?i=selenium"/>
 </a>
-<a href="https://www.php.net/">
+<a href="https://cucumber.io/docs/gherkin/">
   <img src="https://skillicons.dev/icons?i=gherkin"/>
 </a>
-<a href="https://www.php.net/">
+<a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git"/>
 </a>
-<a href="https://www.php.net/">
+<a href="https://www.jetbrains.com/idea/">
   <img src="https://skillicons.dev/icons?i=idea"/>
 </a>
-<a href="https://www.php.net/">
+<a href="https://www.mysql.com/">
   <img src="https://skillicons.dev/icons?i=mysql"/>
 </a>
-<a href="https://www.php.net/">
+<a href="https://www.postgresql.org/">
   <img src="https://skillicons.dev/icons?i=postgres"/>
 </a>
-  <a href="https://www.php.net/">
+  <a href="https://www.postman.com/">
   <img src="https://skillicons.dev/icons?i=postman"/>
 </a>
-<a href="https://www.php.net/">
+<a href="https://code.visualstudio.com/">
   <img src="https://skillicons.dev/icons?i=vscode"/>
 </a>
 </div>
