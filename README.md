@@ -36,10 +36,10 @@ with the aim of improving my skills.
 <a href="https://www.java.com/pt-BR/">
   <img src="https://skillicons.dev/icons?i=java"/>
 </a>
-  <a href="https://www.java.com/pt-BR/">
+  <a href="https://www.typescriptlang.org/">
   <img src="https://skillicons.dev/icons?i=typescript"/>
 </a>
-<a href="https://www.php.net/">
+<a href="https://nodejs.org/en">
   <img src="https://skillicons.dev/icons?i=nodejs"/>
 </a>
 </div>
@@ -56,12 +56,6 @@ with the aim of improving my skills.
 </a>
 <a href="https://spring.io/">
   <img src="https://skillicons.dev/icons?i=spring"/>
-</a>
-<a href="https://www.selenium.dev/">
-  <img src="https://skillicons.dev/icons?i=selenium"/>
-</a>
-<a href="https://cucumber.io/docs/gherkin/">
-  <img src="https://skillicons.dev/icons?i=gherkin"/>
 </a>
 <a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git"/>
@@ -82,12 +76,32 @@ with the aim of improving my skills.
   <img src="https://skillicons.dev/icons?i=vscode"/>
 </a>
 </div>
+<br/>
+<div>
+  <a href="https://www.selenium.dev/">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat"/>
+  </a>
+  <a href="https://playwright.dev/">
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff&style=flat"/>
+  </a>
+  <a href="https://cucumber.io/docs/gherkin/">
+    <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=fff&style=flat"/>
+  </a>
+  <a href="https://jmeter.apache.org/">
+    <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat"/>
+  </a>
+  <a href="https://insomnia.rest/">
+    <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat"/>
+  </a>
+</div>
 
 ##
 
 #### How to contact me:
 <div>
-<a href="https://www.linkedin.com/in/leandrosantosucuamba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
+  <a href="https://www.linkedin.com/in/leandrosantosucuamba/">
+     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"/>
+  </a>
 </div>
 
 ##
