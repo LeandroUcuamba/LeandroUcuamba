@@ -36,8 +36,11 @@ with the aim of improving my skills.
 <a href="https://www.java.com/pt-BR/">
   <img src="https://skillicons.dev/icons?i=java"/>
 </a>
+  <a href="https://www.java.com/pt-BR/">
+  <img src="https://skillicons.dev/icons?i=typescript"/>
+</a>
 <a href="https://www.php.net/">
-  <img src="https://skillicons.dev/icons?i=php"/>
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
 </a>
 </div>
 
@@ -53,9 +56,6 @@ with the aim of improving my skills.
 </a>
 <a href="https://spring.io/">
   <img src="https://skillicons.dev/icons?i=spring"/>
-</a>
-<a href="https://laravel.com/">
-  <img src="https://skillicons.dev/icons?i=laravel"/>
 </a>
 <a href="https://www.selenium.dev/">
   <img src="https://skillicons.dev/icons?i=selenium"/>
