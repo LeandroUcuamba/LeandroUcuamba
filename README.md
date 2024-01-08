@@ -1,7 +1,7 @@
 ## Hi 👋🏽, My name is Leandro Ucuamba.
 #### Welcome to my GitHub profile.  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-I am a computer engineer, focusing on web development and Automation Testing. I love studying and working
+I am a computer engineer, focused on automated software testing and a software development enthusiast. I love studying and working
 in this area that every day I have the opportunity to learn something new. That's why I study constantly
 with the aim of improving my skills.
 
