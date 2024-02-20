@@ -1,13 +1,14 @@
-## Hi 👋🏽, My name is Leandro Ucuamba.
+## Hi 👋, My name is Leandro Ucuamba.
 #### Welcome to my GitHub profile.  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-I am a computer engineer, focused on automated software testing and a software development enthusiast. I love studying and working
-in this area that every day I have the opportunity to learn something new. That's why I study constantly
+I am a computer engineer, focused on automated software testing. I've always been interested in the entire software development cycle, that's why in my free time I like to study about software development. I love studying and working in this area that every day I have the opportunity to learn something new. That's why I study constantly
 with the aim of improving my skills.
 
 <br>
 
 - 🔰  I`m from Luanda, Angola
+- 🔰  I`m working on <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
+- 👨‍💻 I`m currently learning about Automation Testing | QAOps
 - 👨‍🎓 computer engineer
 - 📚📝 I like studying and keeping up to date.
 - 🧑‍💻 Passionate about learning technology.
@@ -30,26 +31,78 @@ with the aim of improving my skills.
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
   <img src="https://skillicons.dev/icons?i=css"/>
 </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js"/>
-</a>
 <a href="https://www.java.com/pt-BR/">
   <img src="https://skillicons.dev/icons?i=java"/>
 </a>
-  <a href="https://www.typescriptlang.org/">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js"/>
+</a>
+<a href="https://www.typescriptlang.org/">
   <img src="https://skillicons.dev/icons?i=typescript"/>
 </a>
-<a href="https://nodejs.org/en">
-  <img src="https://skillicons.dev/icons?i=nodejs"/>
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python"/>
 </a>
+
 </div>
+
+##
+
+#### Test Automation Tools:
+<div>
+  <a href="https://www.selenium.dev/">
+    <img src="https://skillicons.dev/icons?i=selenium"/>
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman"/>
+  </a>
+  <a href="https://cucumber.io/docs/gherkin/">
+    <img src="https://skillicons.dev/icons?i=gherkin"/>
+  </a>
+  <a href="https://playwright.dev/">
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff&style=flat"/>
+  </a>
+  <a href="https://www.cypress.io/">
+    <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=flat-square"/>
+  </a>
+</div>
+
+
+##
+
+#### QAOps Tools:
+<div>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker"/>
+  </a>
+  <a href="https://gitlab.com/gitlab-org">
+    <img src="https://skillicons.dev/icons?i=gitlab"/>
+  </a>
+  <a href="https://www.jenkins.io/">
+    <img src="https://skillicons.dev/icons?i=jenkins"/>
+  </a>
+  <a href="https://github.com/features/actions">
+    <img src="https://skillicons.dev/icons?i=githubactions"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-us">
+    <img src="https://skillicons.dev/icons?i=azure"/>
+  </a>
+</div>
+
+
 
 ##
 
 #### Frameworks and Tools:
 <div>
+<a href="https://angular.io/">
+  <img src="https://skillicons.dev/icons?i=angular"/>
+</a>
 <a href="https://vuejs.org/">
-  <img src="https://skillicons.dev/icons?i=vue"/>
+  <img src="https://skillicons.dev/icons?i=vuejs"/>
 </a>
 <a href="https://react.dev/">
   <img src="https://skillicons.dev/icons?i=react"/>
@@ -57,8 +110,8 @@ with the aim of improving my skills.
 <a href="https://spring.io/">
   <img src="https://skillicons.dev/icons?i=spring"/>
 </a>
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git"/>
+<a href="https://nodejs.org/en">
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
 </a>
 <a href="https://www.jetbrains.com/idea/">
   <img src="https://skillicons.dev/icons?i=idea"/>
@@ -69,30 +122,12 @@ with the aim of improving my skills.
 <a href="https://www.postgresql.org/">
   <img src="https://skillicons.dev/icons?i=postgres"/>
 </a>
-  <a href="https://www.postman.com/">
-  <img src="https://skillicons.dev/icons?i=postman"/>
-</a>
 <a href="https://code.visualstudio.com/">
   <img src="https://skillicons.dev/icons?i=vscode"/>
 </a>
 </div>
 <br/>
 <div>
-  <a href="https://www.selenium.dev/">
-    <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat"/>
-  </a>
-  <a href="https://playwright.dev/">
-    <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff&style=flat"/>
-  </a>
-  <a href="https://cucumber.io/docs/gherkin/">
-    <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=fff&style=flat"/>
-  </a>
-  <a href="https://jmeter.apache.org/">
-    <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat"/>
-  </a>
-  <a href="https://insomnia.rest/">
-    <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat"/>
-  </a>
 </div>
 
 ##
