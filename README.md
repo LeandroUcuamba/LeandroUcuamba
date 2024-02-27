@@ -8,7 +8,7 @@ with the aim of improving my skills.
 
 - 🔰  I`m from Luanda, Angola
 - 🔰  I`m working on <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
-- 👨‍💻 I`m currently learning about Automation Testing | QAOps
+- 👨‍💻 I`m currently learning about Automation Testing | DevOps
 - 👨‍🎓 computer engineer
 - 📚📝 I like studying and keeping up to date.
 - 🧑‍💻 Passionate about learning technology.
@@ -70,7 +70,7 @@ with the aim of improving my skills.
 
 ##
 
-#### QAOps Tools:
+#### DevOps Tools:
 <div>
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git"/>
