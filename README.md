@@ -101,9 +101,6 @@ with the aim of improving my skills.
 <a href="https://vuejs.org/">
   <img src="https://skillicons.dev/icons?i=vuejs"/>
 </a>
-<a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react"/>
-</a>
 <a href="https://spring.io/">
   <img src="https://skillicons.dev/icons?i=spring"/>
 </a>
