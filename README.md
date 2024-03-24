@@ -8,7 +8,7 @@ with the aim of improving my skills.
 
 - 🔰  I`m from Luanda, Angola
 - 🔰  I`m working on <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
-- 👨‍💻 I`m currently learning about Automation Testing | DevOps
+- 👨‍💻 I`m currently learning about DevOps
 - 👨‍🎓 computer engineer
 - 📚📝 I like studying and keeping up to date.
 - 🧑‍💻 Passionate about learning technology.
@@ -62,15 +62,12 @@ with the aim of improving my skills.
   <a href="https://playwright.dev/">
     <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff&style=flat"/>
   </a>
-  <a href="https://www.cypress.io/">
-    <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=flat-square"/>
-  </a>
 </div>
 
 
 ##
 
-#### DevOps Tools:
+#### DevOps Fundamentals:
 <div>
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git"/>
@@ -98,8 +95,11 @@ with the aim of improving my skills.
 
 #### Frameworks and Tools:
 <div>
-<a href="https://vuejs.org/">
-  <img src="https://skillicons.dev/icons?i=vuejs"/>
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react"/>
+</a>
+<a href="https://angular.io/">
+  <img src="https://skillicons.dev/icons?i=angular"/>
 </a>
 <a href="https://spring.io/">
   <img src="https://skillicons.dev/icons?i=spring"/>
