@@ -8,8 +8,8 @@ with the aim of improving my skills.
 
 - 🔰  I`m from Luanda, Angola
 - 🔰  I`m working on <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
-- 👨‍💻 I`m currently learning about DevOps
 - 👨‍🎓 computer engineer
+- 👨‍💻 QA Automation | Software Developer | DevOps Fundamentals
 - 📚📝 I like studying and keeping up to date.
 - 🧑‍💻 Passionate about learning technology.
 
