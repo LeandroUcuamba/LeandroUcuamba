@@ -95,9 +95,6 @@ with the aim of improving my skills.
 
 #### Frameworks and Tools:
 <div>
-<a href="https://vuejs.org/">
-  <img src="https://skillicons.dev/icons?i=vue"/>
-</a>
 <a href="https://react.dev/">
   <img src="https://skillicons.dev/icons?i=react"/>
 </a>
