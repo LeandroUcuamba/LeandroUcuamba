@@ -8,10 +8,10 @@ with the aim of improving my skills.
 
 - 🔰  I`m from Luanda, Angola
 - 🔰  I`m working on <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
-- 👨‍🎓 computer engineer
+- 👨‍🎓  Bachelor`s degree in Informatics Engineering (CIS)
 - 👨‍💻 QA Automation Engineer | Enthusiastic Software Developer | DevOps Fundamentals
 - 📚📝 I like studying and keeping up to date.
-- 🧑‍💻 Passionate about learning technology.
+- 🧑‍💻 Passionate About Agile and Effective Solutions | Passionate about learning technology.
 
 <br><br>
 
