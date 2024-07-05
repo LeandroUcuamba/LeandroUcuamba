@@ -1,7 +1,7 @@
 ## Hi 👋, My name is Leandro Ucuamba.
 #### Welcome to my GitHub profile.  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-I am learning about technologies since 2015, focused on web technologies. I have 1 year of experience as a QA Automation Engineer and solid knowledge in Software Development. My focus is to design and implement automated tests for web systems and APIs, aiming to guarantee the quality and effectiveness of products. I consider myself a studious and dedicated professional, always looking for challenges that boost my professional growth. I am committed to adding value to the team, offering agile and effective solutions to the problems we face.
+I am learning about technologies since 2015 in High School. I am a QA Engineer with 2 years of professional experience, currently working at Tis Tech in Angola, serving as a consultant for the Angolan Ministry of Finance. My focus is to design and implement automated tests for web systems and APIs, aiming to guarantee the quality and effectiveness of products. I consider myself a studious and dedicated professional, always looking for challenges that boost my professional growth. I am committed to adding value to the team, offering agile and effective solutions to the problems we face.
 
 My expertise in Test Automation and passion for Software Development allows me to create solutions and have a greater vision of the quality and efficiency of projects, meeting the dynamic demands of the market.
 
@@ -11,7 +11,7 @@ My expertise in Test Automation and passion for Software Development allows me t
 - 🔰  I`m from Luanda, Angola
 - 🔰  I`m working on <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
 - 👨‍🎓  Bachelor`s degree in Informatics Engineering (CIS)
-- 👨‍💻 QA Automation Engineer | Enthusiastic Software Developer | DevOps Fundamentals
+- 👨‍💻 QA Engineer | Automation | Enthusiastic Software Developer
 - 📚📝 I like studying and keeping up to date | Passionate about learning technology.
 - 🧑‍💻 Passionate About Agile and Effective Solutions.
 
