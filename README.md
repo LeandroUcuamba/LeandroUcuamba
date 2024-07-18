@@ -3,17 +3,15 @@
 
 I've been in the technology industry since 2015, in high school when I started studying computing. I am a QA Automation Engineer with 2 years of professional experience, currently working at <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>, serving as a consultant for the Angolan Ministry of Finance. My focus is to design and implement automated tests for web systems and APIs, aiming to guarantee the quality and effectiveness of products. I consider myself a studious and dedicated professional, always looking for challenges that boost my professional growth. I am committed to adding value to the team, offering agile and effective solutions to the problems we face.
 
-My expertise in Test Automation and passion for Software Development allows me to create solutions and have a greater vision of the quality and efficiency of projects, meeting the dynamic demands of the market.
-
 
 <br>
 
 - 🔰  I`m from Luanda, Angola
-- 🔰  I`m working on <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
-- 👨‍🎓  Bachelor`s degree in Informatics Engineering (CIS)
-- 👨‍💻 Software Engineering in Test | QA Automation Engineer | Frontend Developer
-- 📚📝 I like studying and keeping up to date | Passionate about learning technology.
-- 🧑‍💻 Passionate About Agile and Effective Solutions.
+- 🧑‍💻 Software Engineering in Test | QA Automation Engineer | Frontend Developer
+- 👨‍💻  QA Automation Engineer @ <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
+- 🎓👨‍🎓  Bachelor`s degree in Informatics Engineering (CIS) @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
+- 🌐 Passionate about web development technology.
+- 💡 Love a good challenge
 
 <br><br>
 
