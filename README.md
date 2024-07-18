@@ -9,9 +9,6 @@ I've been in the technology industry since 2015, in high school when I started s
     <a href="https://www.linkedin.com/in/leandrosantosucuamba/">
       <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=gmail"/>
-    </a>
 </div>
 
 ##
