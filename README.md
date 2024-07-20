@@ -4,20 +4,10 @@
 I've been in the technology industry since 2015, in high school when I started studying computing. I am a QA Automation Engineer with 2 years of professional experience, currently working at <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>, serving as a consultant for the Angolan Ministry of Finance. My focus is to design and implement automated tests for web systems and APIs, aiming to guarantee the quality and effectiveness of products. I consider myself a studious and dedicated professional, always looking for challenges that boost my professional growth. I am committed to adding value to the team, offering agile and effective solutions to the problems we face.
 
 
-#### click to contact me:
-<div>
-    <a href="https://www.linkedin.com/in/leandrosantosucuamba/">
-      <img src="https://skillicons.dev/icons?i=linkedin"/>
-    </a>
-</div>
-
-##
-
-
 <br>
 
 - 🔰  I`m from Luanda, Angola
-- 🧑‍💻 Software Engineering in Test | QA Automation Engineer | Frontend Developer
+- 🧑‍💻 Software Engineering in Test | QA Automation Engineer | Software Developer
 - 👨‍💻  QA Automation Engineer @ <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
 - 🎓👨‍🎓  Bachelor`s degree in Informatics Engineering (CIS) @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
 - 🌐 Passionate about web development technology.
@@ -134,6 +124,16 @@ I've been in the technology industry since 2015, in high school when I started s
 </div>
 <br/>
 <div>
+</div>
+
+##
+
+
+#### click to contact me:
+<div>
+    <a href="https://www.linkedin.com/in/leandrosantosucuamba/">
+      <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
 </div>
 
 ##
