@@ -41,7 +41,7 @@ I've been in the technology industry since 2015, in high school when I started s
       <img src="https://skillicons.dev/icons?i=typescript"/>
     </a>
     <a href="">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="7%px" height="7%"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px" height="50px"/>
     </a>
 </div>
 
