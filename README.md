@@ -50,10 +50,10 @@ I've been in the technology industry since 2015, in high school when I started s
 #### Test Automation Tools:
 <div>
     <a href="https://playwright.dev/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="7%px" height="7%"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="66px" height="66px"/>
     </a>
     <a href="https://www.cypress.io/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="4%px" height="1%"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50px" height="50px"/>
     </a>
     <a href="https://www.selenium.dev/">
       <img src="https://skillicons.dev/icons?i=selenium"/>
