@@ -7,7 +7,7 @@ I've been in the technology industry since 2015, in high school when I started s
 <br>
 
 - 🔰  I`m from Luanda, Angola
-- 💻 QA Automation Engineer | QA Engineer | SDET | Software Developer Enthusiast
+- 💻 QA Automation Engineer | QA Engineer | SDET | Software Development Enthusiast
 - 👨‍💻 QA Automation Engineer @ <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
 - 👨‍🎓 Bachelor`s degree in Informatics Engineering @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
 - 🌐 Passionate about web development technology.
