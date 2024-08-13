@@ -100,14 +100,8 @@ I've been in the technology industry since 2015, in high school when I started s
     <a href="https://angular.dev/">
       <img src="https://skillicons.dev/icons?i=angular"/>
     </a>
-    <a href="https://react.dev/">
-      <img src="https://skillicons.dev/icons?i=react"/>
-    </a>
     <a href="https://spring.io/projects/spring-boot">
       <img src="https://skillicons.dev/icons?i=spring"/>
-    </a>
-    <a href="https://nodejs.org/en">
-      <img src="https://skillicons.dev/icons?i=nodejs"/>
     </a>
     <a href="https://www.jetbrains.com/idea/">
       <img src="https://skillicons.dev/icons?i=idea"/>
