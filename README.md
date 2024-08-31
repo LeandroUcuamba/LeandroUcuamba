@@ -1,13 +1,15 @@
 ## Hi 👋, My name is Leandro Ucuamba.
 #### Welcome to my GitHub profile.  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-I've been in the technology industry since 2015, in high school when I started studying computing. I am a QA Automation Engineer with 2 years of professional experience, currently working at <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>, serving as a consultant for the Angolan Ministry of Finance. My focus is to design and implement automated tests for web systems and APIs, aiming to guarantee the quality and effectiveness of products. I consider myself a studious and dedicated professional, always looking for challenges that boost my professional growth. I am committed to adding value to the team, offering agile and effective solutions to the problems we face.
+I've been in the technology industry since 2015, in high school when I started studying computing. I am a professional with 2 years of experience, currently working at <a href="https://www.tistech.co.ao/">Tis Tech Angola</a> as a QA Automation Engineer, serving as a consultant for the Angolan Ministry of Finance.
+
+I consider myself a studious and dedicated professional, always looking for challenges that boost my professional growth. I am committed to adding value to the team, offering agile and effective solutions to the problems we face.
 
 
 <br>
 
 - 🔰  I`m from Luanda, Angola
-- 💻 QA Automation Engineer | QA Engineer | SDET | Software Development Enthusiast
+- 💻 QA Automation Engineer | Software Developer | SDET
 - 👨‍💻 QA Automation Engineer @ <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
 - 👨‍🎓 Bachelor`s degree in Informatics Engineering @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
 - 🌐 Passionate about web development technology.
