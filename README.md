@@ -105,10 +105,6 @@ I consider myself a studious and dedicated professional, always looking for chal
     <a href="https://spring.io/projects/spring-boot">
       <img src="https://skillicons.dev/icons?i=spring"/>
     </a>
-    <a 
-href="https://react.dev">
-      <img src="https://skillicons.dev/icons?i=react"/>
-    </a>
     <a href="https://www.jetbrains.com/idea/">
       <img src="https://skillicons.dev/icons?i=idea"/>
     </a>
