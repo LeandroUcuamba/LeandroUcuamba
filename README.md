@@ -1,7 +1,9 @@
 ## Hi 👋, My name is Leandro Ucuamba.
 #### Welcome to my GitHub profile.  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-I've been in the technology industry since 2015, in high school when I started studying informatics (IT). I am a professional with 2 years of experience, currently working at <a href="https://www.tistech.co.ao/">Tis Tech Angola</a> as a QA Automation Engineer, serving as a consultant for the Angolan Ministry of Finance.
+I've been in the technology industry since 2015, in high school when I started studying informatics (IT). I am a professional with 2 years of experience, currently working at <a href="https://www.tistech.co.ao/">Tis Tech Angola</a> as a QA Automation Engineer on the AGT 4.0 project for the Ministry of Finance of Angola, which is the second largest source of revenue for the country (Angola) and impacts millions of users. 
+
+I hold a Bachelor's degree in Informatics Engineering (Computer Science) and have experience in software development, as well as skills in test automation.
 
 I consider myself a studious and dedicated professional, always looking for challenges that boost my professional growth. I am committed to adding value to the team, offering agile and effective solutions to the problems we face.
 
@@ -9,9 +11,9 @@ I consider myself a studious and dedicated professional, always looking for chal
 <br>
 
 - 🔰  I`m from Luanda, Angola
-- 💻 QA Automation Engineer | Software Developer
+- 💻 QA Automation Engineer | Software Engineer
 - 👨‍💻 QA Automation Engineer @ <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
-- 👨‍🎓 Bachelor`s degree in Informatics Engineering @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
+- 👨‍🎓 Bachelor`s degree in Informatics Engineering (Computer Science) @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
 - 🌐 Passionate about web development technology.
 - 💡 Love a good challenge
 
