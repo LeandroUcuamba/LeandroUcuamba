@@ -11,7 +11,7 @@ I consider myself a studious and dedicated professional, always looking for chal
 <br>
 
 - 🔰  I`m from Luanda, Angola
-- 💻 QA Engineer | QA Automation Engineer | Software Engineer
+- 💻 QA Automation Engineer | Software Engineer
 - 👨‍💻 QA Automation Engineer @ <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
 - 👨‍🎓 Bachelor`s degree in Informatics Engineering (Computer Science) @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
 - 🌐 Passionate about web development technology.
