@@ -44,6 +44,8 @@ I consider myself a studious and dedicated professional, always looking for chal
     <a href="https://www.typescriptlang.org/">
       <img src="https://skillicons.dev/icons?i=typescript"/>
     </a>
+  <a href="https://www.python.org/">
+      <img src="https://skillicons.dev/icons?i=python"/>
     <a href="">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px" height="50px"/>
     </a>
