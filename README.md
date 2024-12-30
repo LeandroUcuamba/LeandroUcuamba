@@ -75,29 +75,6 @@ I consider myself a studious and dedicated professional, always looking for chal
 
 ##
 
-#### DevOps Fundamentals:
-<div>
-    <a href="https://www.docker.com/">
-      <img src="https://skillicons.dev/icons?i=docker"/>
-    </a>
-    <a href="https://github.com/features/actions">
-      <img src="https://skillicons.dev/icons?i=githubactions"/>
-    </a>
-    <a href="https://gitlab.com/gitlab-org">
-      <img src="https://skillicons.dev/icons?i=gitlab"/>
-    </a>
-    <a href="https://www.jenkins.io/">
-      <img src="https://skillicons.dev/icons?i=jenkins"/>
-    </a>
-    <a href="https://azure.microsoft.com/en-us">
-      <img src="https://skillicons.dev/icons?i=azure"/>
-    </a>
-</div>
-
-
-
-##
-
 #### Frameworks and Tools:
 <div>
     <a href="https://git-scm.com/">
@@ -117,6 +94,15 @@ I consider myself a studious and dedicated professional, always looking for chal
     </a>
     <a href="https://www.postgresql.org/">
       <img src="https://skillicons.dev/icons?i=postgres"/>
+    </a>
+  <a href="https://www.docker.com/">
+      <img src="https://skillicons.dev/icons?i=docker"/>
+    </a>
+    <a href="https://github.com/features/actions">
+      <img src="https://skillicons.dev/icons?i=githubactions"/>
+    </a>
+    <a href="https://gitlab.com/gitlab-org">
+      <img src="https://skillicons.dev/icons?i=gitlab"/>
     </a>
     <a href="https://code.visualstudio.com/">
       <img src="https://skillicons.dev/icons?i=vscode"/>
