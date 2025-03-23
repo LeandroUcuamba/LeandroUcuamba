@@ -35,17 +35,17 @@ I consider myself a studious and dedicated professional, always looking for chal
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
       <img src="https://skillicons.dev/icons?i=css"/>
     </a>
-    <a href="https://www.java.com/pt-BR/">
-      <img src="https://skillicons.dev/icons?i=java"/>
-    </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
       <img src="https://skillicons.dev/icons?i=js"/>
     </a>
     <a href="https://www.typescriptlang.org/">
       <img src="https://skillicons.dev/icons?i=typescript"/>
     </a>
-  <a href="https://www.python.org/">
-      <img src="https://skillicons.dev/icons?i=python"/>
+    <a href="https://www.java.com/pt-BR/">
+      <img src="https://skillicons.dev/icons?i=java"/>
+    </a>
+  <a href="https://go.dev/">
+      <img src="https://skillicons.dev/icons?i=go"/>
     <a href="">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px" height="50px"/>
     </a>
