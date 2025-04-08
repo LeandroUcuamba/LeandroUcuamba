@@ -44,8 +44,6 @@ I consider myself a studious and dedicated professional, always looking for chal
     <a href="https://www.java.com/pt-BR/">
       <img src="https://skillicons.dev/icons?i=java"/>
     </a>
-  <a href="https://go.dev/">
-      <img src="https://skillicons.dev/icons?i=go"/>
     <a href="">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px" height="50px"/>
     </a>
