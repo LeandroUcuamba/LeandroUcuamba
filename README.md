@@ -3,9 +3,7 @@
 
 I've been in the technology industry since 2015, in high school when I started studying informatics (IT). I am a professional with 2+ years of experience, currently working at <a href="https://www.tistech.co.ao/">Tis Tech Angola</a> as a QA Automation Engineer on the AGT 4.0 project for the Ministry of Finance of Angola, which is the second largest source of revenue for the country (Angola) and impacts millions of users. 
 
-I hold a Bachelor's degree in Informatics Engineering (Software Engineering) and have experience in software development, as well as skills in test automation.
-
-I consider myself a studious and dedicated professional, always looking for challenges that boost my professional growth. I am committed to adding value to the team, offering agile and effective solutions to the problems we face.
+I hold a Bachelor's degree in Informatics Engineering (Software Engineering) and have experience in software development, as well as skills in test automation. I consider myself a studious and dedicated professional, always looking for challenges that boost my professional growth. I am committed to adding value to the team, offering agile and effective solutions to the problems we face.
 
 
 <br>
@@ -17,110 +15,63 @@ I consider myself a studious and dedicated professional, always looking for chal
 - 🌐 Passionate about web development.
 - 💡 Love a good challenge
 
-<br><br>
+<br>
+
+## 🧰 Languages and Tools
+
+**Languages**:
+
+[<img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="42" height="42">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  &nbsp; 
+[<img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="42" height="42">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48">](https://www.javascript.com)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/typescript.png" width="48" height="48">](https://www.typescriptlang.org/)  &nbsp;
+[<img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" width="48" height="48">](https://www.java.com)  &nbsp; 
+
+**Testing Tools**:
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg" width="130" height="48">](https://playwright.dev) &nbsp;
+[<img src="https://icon.icepanel.io/Technology/svg/Cypress.svg" width="48" height="48">](https://www.cypress.io)  &nbsp; 
+[<img src="https://www.svgrepo.com/show/354321/selenium.svg" width="48" height="48">](https://www.selenium.dev)  &nbsp; 
+[<img src="https://icon.icepanel.io/Technology/svg/Cucumber.svg" width="48" height="48">](https://cucumber.io/)  &nbsp; 
+[<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48">](https://www.postman.com)  &nbsp; 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1200px-K6-logo.svg.png" width="48" height="48">](https://k6.io)  &nbsp;
+
+**Development frameworks**:
+
+[<img src="https://icon.icepanel.io/Technology/svg/Angular.svg" width="52" height="52">](https://angular.dev/) &nbsp;
+[<img src="https://icon.icepanel.io/Technology/svg/Spring.svg" width="45" height="45">](https://spring.io/) &nbsp;
+
+**Database**:  
+
+[<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="90" height="48">](https://www.mysql.com)  &nbsp; 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="48" height="48">](https://www.postgresql.org)  &nbsp; 
+
+**Others:**:
+
+[<img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="48" height="48">](https://github.com/actions) &nbsp;
+[<img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" width="48" height="48">](https://about.gitlab.com/topics/ci-cd/) &nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="48" height="48">](https://azure.microsoft.com) &nbsp;
+[<img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" width="90" height="48">](https://aws.amazon.com) &nbsp;
+
+##
+
+## 🔥 GitHub Streak
 
 <div align="center">
-  <a href="https://github.com/LeandroUcuamba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroUcuamba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroUcuamba&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroUcuamba&theme=tokyonight&hide_border=true" />
 </div>
 
-##
-
-#### languages:
-<div>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://skillicons.dev/icons?i=html"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-      <img src="https://skillicons.dev/icons?i=css"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-      <img src="https://skillicons.dev/icons?i=js"/>
-    </a>
-    <a href="https://www.typescriptlang.org/">
-      <img src="https://skillicons.dev/icons?i=typescript"/>
-    </a>
-    <a href="https://www.java.com/pt-BR/">
-      <img src="https://skillicons.dev/icons?i=java"/>
-    </a>
-    <a href="">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px" height="50px"/>
-    </a>
+## 🧠 GitHub Summary Cards
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeandroUcuamba&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroUcuamba&theme=tokyonight" />
 </div>
 
-##
+<br>
 
-#### Test Automation Tools:
-<div>
-    <a href="https://playwright.dev/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="66px" height="66px"/>
-    </a>
-    <a href="https://www.cypress.io/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50px" height="50px"/>
-    </a>
-    <a href="https://www.selenium.dev/">
-      <img src="https://skillicons.dev/icons?i=selenium"/>
-    </a>
-    <a href="https://www.postman.com/">
-      <img src="https://skillicons.dev/icons?i=postman"/>
-    </a>
-    <a href="https://cucumber.io/docs/gherkin/">
-      <img src="https://skillicons.dev/icons?i=gherkin"/>
-    </a>
-</div>
+## 📫 Let's talk!
 
+_"If there's something strange in your system... who you gonna call?"_
 
-##
-
-#### Frameworks and Tools:
-<div>
-    <a href="https://git-scm.com/">
-      <img src="https://skillicons.dev/icons?i=git"/>
-    </a>
-    <a href="https://angular.dev/">
-      <img src="https://skillicons.dev/icons?i=angular"/>
-    </a>
-    <a href="https://spring.io/projects/spring-boot">
-      <img src="https://skillicons.dev/icons?i=spring"/>
-    </a>
-    <a href="https://www.jetbrains.com/idea/">
-      <img src="https://skillicons.dev/icons?i=idea"/>
-    </a>
-    <a href="https://www.mysql.com/">
-      <img src="https://skillicons.dev/icons?i=mysql"/>
-    </a>
-    <a href="https://www.postgresql.org/">
-      <img src="https://skillicons.dev/icons?i=postgres"/>
-    </a>
-  <a href="https://www.docker.com/">
-      <img src="https://skillicons.dev/icons?i=docker"/>
-    </a>
-    <a href="https://github.com/features/actions">
-      <img src="https://skillicons.dev/icons?i=githubactions"/>
-    </a>
-    <a href="https://gitlab.com/gitlab-org">
-      <img src="https://skillicons.dev/icons?i=gitlab"/>
-    </a>
-    <a href="https://code.visualstudio.com/">
-      <img src="https://skillicons.dev/icons?i=vscode"/>
-    </a>
-</div>
-<br/>
-<div>
-</div>
-
-##
-
-
-#### click to contact me:
-<div>
-    <a href="https://www.linkedin.com/in/leandrosantosucuamba/">
-      <img src="https://skillicons.dev/icons?i=linkedin"/>
-    </a>
-</div>
-
-##
-
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+[<img alt="LeandroUcuamba-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/leandrosantosucuamba/)
+[<img alt="LeandroUcuamba-email" height="35" width="35" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png">](mailto:leandro.santosucuamba@gmail.com?subject=Contato%20pelo%20Github)
