@@ -1,18 +1,17 @@
 ## Hi 👋, My name is Leandro Ucuamba.
 #### Welcome to my GitHub profile.  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-I've been in the technology industry since 2015, in high school when I started studying informatics (IT). I am a professional with 2+ years of experience, currently working at <a href="https://www.tistech.co.ao/">Tis Tech Angola</a> as a QA Automation Engineer on the AGT 4.0 project for the Ministry of Finance of Angola, which is the second largest source of revenue for the country (Angola) and impacts millions of users. 
+I am a Software Engineer with 3+ years of experience, focused on back-end development and proficient in front-end technologies. I hold a Bachelor's degree in Informatics Engineering with a specialization in Software Engineering.
 
-I hold a Bachelor's degree in Informatics Engineering (Software Engineering) and have experience in software development, as well as skills in test automation. I consider myself a studious and dedicated professional, always looking for challenges that boost my professional growth. I am committed to adding value to the team, offering agile and effective solutions to the problems we face.
-
+For 2 of those years, I worked as a QA Automation Engineer, where I focused on automated testing and quality assurance, playing a key role in delivering robust and reliable applications. This experience has enhanced my software development skills, with an emphasis on system maintainability, performance, and scalability.
 
 <br>
 
 - 🔰  I`m from Luanda, Angola
-- 💻 Software Engineer | Test Automation
+- 💻 Software Engineer | Java Developer
 - 👨‍💻 QA Automation Engineer @ <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
 - 👨‍🎓 Bachelor`s degree in Informatics Engineering (Software Engineering) @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
-- 🌐 Passionate about web development.
+- 🌐 web development
 - 💡 Love a good challenge
 
 <br>
@@ -21,25 +20,22 @@ I hold a Bachelor's degree in Informatics Engineering (Software Engineering) and
 
 **Languages**:
 
-[<img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="42" height="42">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  &nbsp; 
-[<img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="42" height="42">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  &nbsp; 
+[<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="55" height="55">](https://www.java.com)  &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48">](https://www.javascript.com)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/typescript.png" width="48" height="48">](https://www.typescriptlang.org/)  &nbsp;
-[<img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" width="48" height="48">](https://www.java.com)  &nbsp; 
-
-**Testing Tools**:
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg" width="130" height="48">](https://playwright.dev) &nbsp;
-[<img src="https://icon.icepanel.io/Technology/svg/Cypress.svg" width="48" height="48">](https://www.cypress.io)  &nbsp; 
-[<img src="https://www.svgrepo.com/show/354321/selenium.svg" width="48" height="48">](https://www.selenium.dev)  &nbsp; 
-[<img src="https://icon.icepanel.io/Technology/svg/Cucumber.svg" width="48" height="48">](https://cucumber.io/)  &nbsp; 
-[<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48">](https://www.postman.com)  &nbsp; 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1200px-K6-logo.svg.png" width="48" height="48">](https://k6.io)  &nbsp;
 
 **Development frameworks**:
 
-[<img src="https://icon.icepanel.io/Technology/svg/Angular.svg" width="52" height="52">](https://angular.dev/) &nbsp;
 [<img src="https://icon.icepanel.io/Technology/svg/Spring.svg" width="45" height="45">](https://spring.io/) &nbsp;
+[<img src="https://icon.icepanel.io/Technology/svg/Angular.svg" width="52" height="52">](https://angular.dev/) &nbsp;
+
+**Testing Tools**:
+ 
+[<img src="https://www.svgrepo.com/show/354321/selenium.svg" width="48" height="48">](https://www.selenium.dev)  &nbsp; 
+[<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48">](https://www.postman.com)  &nbsp; 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1200px-K6-logo.svg.png" width="48" height="48">](https://k6.io)  &nbsp;
+[<img src="https://icon.icepanel.io/Technology/svg/Cypress.svg" width="48" height="48">](https://www.cypress.io)  &nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg" width="230" height="70">](https://playwright.dev) &nbsp;
 
 **Database**:  
 
@@ -50,7 +46,6 @@ I hold a Bachelor's degree in Informatics Engineering (Software Engineering) and
 
 [<img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="48" height="48">](https://github.com/actions) &nbsp;
 [<img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" width="48" height="48">](https://about.gitlab.com/topics/ci-cd/) &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="48" height="48">](https://azure.microsoft.com) &nbsp;
 [<img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" width="90" height="48">](https://aws.amazon.com) &nbsp;
 
 ##
