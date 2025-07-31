@@ -10,7 +10,7 @@ For 2 of those years, I worked as a QA Automation Engineer, where I focused on a
 - 🔰  I`m from Luanda, Angola
 - 💻 Software Engineer | Java Developer
 - 👨‍💻 QA Automation Engineer @ <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
-- 👨‍🎓 Bachelor`s degree in Informatics Engineering with a specialization in Software Engineering. @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
+- 👨‍🎓 Bachelor`s degree in Informatics Engineering with a specialization in Software Engineering @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
 - 🌐 web development
 - 💡 Love a good challenge
 
