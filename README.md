@@ -1,7 +1,7 @@
 ## Hi 👋, My name is Leandro Ucuamba.
 #### Welcome to my GitHub profile.  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-I am a Full-Stack Software Engineer with over 3 years of experience and a Bachelor's degree in Informatics Engineering, specializing in Software Engineering.
+I am a Full-Stack Software Engineer with over 3 years of experience and a Bachelor's degree in Informatics Engineering, specializing in Software Engineering. I’m driven by the purpose of creating scalable, reliable web applications that solve real-world problems and deliver meaningful value to users and businesses alike.
 
 For 2 of those years, I worked as a QA Automation Engineer, where I focused on automated testing and quality assurance, playing a key role in delivering robust and reliable applications. This experience has enhanced my software development skills, with an emphasis on system maintainability, performance, and scalability.
 
