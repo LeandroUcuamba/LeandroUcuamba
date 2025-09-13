@@ -1,14 +1,14 @@
 ## Hi 👋, My name is Leandro Ucuamba.
 #### Welcome to my GitHub profile.  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-I am a Full-Stack Software Engineer with over 3 years of experience and a Bachelor's degree in Informatics Engineering, specializing in Software Engineering. I’m driven by the purpose of creating scalable, reliable web applications that solve real-world problems and deliver meaningful value to users and businesses alike.
+I am a Software Engineer with a focus on Backend development and solid knowledge in Frontend, with 3 years of professional experience. I hold a Bachelor's degree in Informatics Engineering, with specialization in Software Engineering. I’m driven by the purpose of creating scalable, reliable web applications that solve real-world problems and deliver meaningful value to users and businesses alike.
 
 For 2 of those years, I worked as a QA Automation Engineer, where I focused on automated testing and quality assurance, playing a key role in delivering robust and reliable applications. This experience has enhanced my software development skills, with an emphasis on system maintainability, performance, and scalability.
 
 <br>
 
 - 🔰  I`m from Luanda, Angola
-- 💻 Software Engineer | Full-Stack Developer
+- 💻 Software Engineer | Developer | Test Automation
 - 👨‍💻 QA Automation Engineer @ <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
 - 👨‍🎓 Bachelor`s degree in Informatics Engineering with a specialization in Software Engineering @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
 - 🌐 web development
