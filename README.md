@@ -1,15 +1,17 @@
 ## Hi 👋, My name is Leandro Ucuamba.
 #### Welcome to my GitHub profile.  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-I am a Software Engineer with a focus on Backend development and solid knowledge in Frontend, with 3 years of professional experience. I hold a Bachelor's degree in Informatics Engineering, with specialization in Software Engineering. I’m driven by the purpose of creating scalable, reliable web applications that solve real-world problems and deliver meaningful value to users and businesses alike.
+Software Engineer in Test (SDET) with a bachelor’s degree in Informatics Engineering (Software Engineering) and 5+ years of experience, working on scalable, high-availability, mission-critical systems.
 
-For 2 of those years, I worked as a QA Automation Engineer, where I focused on automated testing and quality assurance, playing a key role in delivering robust and reliable applications. This experience has enhanced my software development skills, with an emphasis on system maintainability, performance, and scalability.
+My career began as Full-Stack Software Engineer , which gave me a strong foundation in software architecture, SDLC, and engineering best practices. This background allows me to approach quality engineering with a developer mindset, focusing on automation, reliability, and maintainability.
+
+I specialize in test automation, quality engineering, and SDET, designing automation frameworks and testing strategies for Web, API and Mobile applications.
 
 <br>
 
 - 🔰  I`m from Luanda, Angola
-- 💻 Software Engineer | Developer | Test Automation
-- 👨‍💻 QA Automation Engineer @ <a href="https://www.tistech.co.ao/">Tis Tech Angola</a>
+- 💻 Software Engineer in Test | QA Automation Enginner | QA Engineer
+- 👨‍💻 Software Engineer in Test @ <a href="https://www.standardbank.co.ao/">Standard Bank Angola</a>
 - 👨‍🎓 Bachelor`s degree in Informatics Engineering with a specialization in Software Engineering @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
 - 🌐 web development
 - 💡 Love a good challenge
