@@ -1,7 +1,9 @@
 ## Hi 👋, My name is Leandro Ucuamba.
 #### Welcome to my GitHub profile.  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-Software Engineer in Test (SDET) with a bachelor’s degree in Informatics Engineering (Software Engineering) and 5+ years of experience, working on scalable, high-availability, mission-critical systems.
+Software Engineer in Test (SDET) | QA Automation Engineer | QA Engineer 
+
+Results-driven Quality Engineer with 5+ years of experience delivering scalable, high-availability, mission-critical software solutions, backed by a Bachelor’s degree in Informatics Engineering (Software Engineering).
 
 My career began as Full-Stack Software Engineer , which gave me a strong foundation in software architecture, SDLC, and engineering best practices. This background allows me to approach quality engineering with a developer mindset, focusing on automation, reliability, and maintainability.
 
