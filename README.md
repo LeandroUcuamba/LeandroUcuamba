@@ -12,7 +12,7 @@ I specialize in test automation, quality engineering, and SDET, designing automa
 <br>
 
 - 🔰  I`m from Luanda, Angola
-- 💻 Software Engineer in Test | QA Automation Enginner | QA Engineer
+- 💻 Software Engineer in Test (SDET) | QA Automation Enginner | QA Engineer
 - 👨‍💻 Software Engineer in Test @ <a href="https://www.standardbank.co.ao/">Standard Bank Angola</a>
 - 👨‍🎓 Bachelor`s degree in Informatics Engineering with a specialization in Software Engineering @ <a href="http://197.234.119.70/index.aspx">UnIA</a>
 - 🌐 web development
